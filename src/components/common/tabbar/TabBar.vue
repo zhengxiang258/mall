@@ -15,6 +15,7 @@
   left: 0;
   right: 0;
   box-shadow: 0px -1px 1px rgba(0, 0, 0, 0.3);
+  z-index: 9;
 }
 
 </style>
